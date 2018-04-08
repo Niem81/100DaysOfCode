@@ -4,7 +4,10 @@ Let's just do it! Not only to be part of sth amazing like this, but also , like 
 ## Days
 
 ### Day 1
-Starting with some algorithms to exercise before going into programming. Some resources I recommend to use are the following:
+Starting with some algorithms to exercise before going into programming. Some resources I recommend (also that I've been told by some friends) I would list them in sections below.
+
+
+## Algorithm Resources - Practice
 - HackerRank
 - Project Euler
 - Codility
