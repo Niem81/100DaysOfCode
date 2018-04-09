@@ -8,6 +8,7 @@ Starting with some algorithms to exercise before going into programming. Some re
 
 ### Day 2
 Started working on some Work stuff. The project I'm currently working on uses PHP - Laravel as backend and Angular 1 as Front end. Apart from that, I added another algorithm exercise from Codility. This time was introduction to Time Complexity problems, related to Big-O Notation.
+Looking at the results from Codility, the solution is correct, but I have to improve in the amount of time it takes to solve it.
 
 ## Algorithm Resources - Practice
 - HackerRank
