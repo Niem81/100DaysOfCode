@@ -15,17 +15,12 @@ function solution(arr) {
     }
     if(arr.length <= 0) return 0;
     if(arr.length == 1) return arr[0];
-
-    var differences = [];
+    var minor = Math.max(...arr);
     for (var i = 1; i < arr.length; i++) {
-        var array1 = arr.slice(0, i);
-        var array2 = arr.slice(i, arr.length);
 
-        var sum1 = array1.reduce((a, b) => a + b, 0);
-        var sum2 = array2.reduce((a, b) => a + b, 0);
-        var diff = Math.abs(sum1 - sum2);
-
-        differences.push(diff);
+        var sum1 = arr.slice(0, i).reduce((a, b) => a + b, 0);
+        var sum2 = arr.slice(i, arr.length).reduce((a, b) => a + b, 0);
+        minor = Math.abs(sum1 - sum2) < minor ? Math.abs(sum1 - sum2) : minor;
     }
-    return Math.min(...differences);
+    return minor;
 }
