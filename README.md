@@ -18,6 +18,7 @@ It is important to consider the amount of elements an array have, and also know 
   - PermMissingElem
 * Chapter 4
   - FrogRiverOne
+  - MissingInteger
 
 ## Algorithm Resources - Practice
 - HackerRank
