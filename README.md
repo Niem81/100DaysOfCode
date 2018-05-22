@@ -20,6 +20,18 @@ It is important to consider the amount of elements an array have, and also know 
   - FrogRiverOne
   - MissingInteger
 
+### Day 4
+Continue with exercises related to Chapter 4
+- Codility:
+* Chapter 4
+  - MaxCounters
+
+### Day 5
+Started reviewing Addy Osmani's Design Patterns with Javascript.
+All practices have been added to other repo in algorithms: https://github.com/Niem81/algorithms
+
+
+
 ## Algorithm Resources - Practice
 - HackerRank
 - Project Euler
