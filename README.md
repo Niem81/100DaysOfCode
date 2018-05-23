@@ -1,5 +1,5 @@
 # 100DaysOfCode
-Let's just do it! Not only to be part of sth amazing like this, but also , like someone pointed out to me, keep track of all what I'm doing and enjoy the ride!
+Joining the movement and started coding and keeping track for all I'm gonna do or build for the next 100 Days.
 
 ## Days
 
@@ -30,7 +30,11 @@ Continue with exercises related to Chapter 4
 Started reviewing Addy Osmani's Design Patterns with Javascript.
 All practices have been added to other repo in algorithms: https://github.com/Niem81/algorithms
 
-
+### Day 6
+Keeping up with Codility. Now in chapter 5 solving Preffix Sums.
+- Codility:
+* Chapter 5
+  - CountDiv
 
 ## Algorithm Resources - Practice
 - HackerRank
