@@ -35,6 +35,7 @@ Keeping up with Codility. Now in chapter 5 solving Preffix Sums.
 - Codility:
 * Chapter 5
   - CountDiv
+  - PassingCars
 
 ## Algorithm Resources - Practice
 - HackerRank
