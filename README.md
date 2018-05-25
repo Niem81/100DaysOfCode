@@ -1,6 +1,11 @@
 # 100DaysOfCode
 Joining the movement and started coding and keeping track for all I'm gonna do or build for the next 100 Days.
 
+## Algorithm Resources - Practice
+- HackerRank
+- Project Euler
+- Codility
+
 ## Days
 
 ### Day 1
@@ -36,8 +41,10 @@ Keeping up with Codility. Now in chapter 5 solving Preffix Sums.
 * Chapter 5
   - CountDiv
   - PassingCars
+  - GenomicRangeQuery
 
-## Algorithm Resources - Practice
-- HackerRank
-- Project Euler
-- Codility
+### Day 7
+Focus mainly on the job. Working with PHP - Laravel.
+In my project I'm using Lumen as a micro framework from Laravel to handle al backend.
+For the latest task I'm coding, I'm using a Laravel library Serialize to handle Social Login. In this particular case applied for Facebook.
+Apart from that, practising some Interview questions from here: https://www.toptal.com/algorithms/interview-questions (19 Essential Algorithm Questions)
