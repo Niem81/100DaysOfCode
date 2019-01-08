@@ -1,5 +1,6 @@
 # 100DaysOfCode
 Joining the movement and started coding and keeping track for all I'm gonna do or build for the next 100 Days.
+Update Dic-2018: Although I started this 9 months ago, I didn't measure time properly to keep track of 100DaysOfCode, so I'll re-start this path, following where I left this.
 
 ## Algorithm Resources - Practice
 - HackerRank
@@ -48,3 +49,9 @@ Focus mainly on the job. Working with PHP - Laravel.
 In my project I'm using Lumen as a micro framework from Laravel to handle al backend.
 For the latest task I'm coding, I'm using a Laravel library Serialize to handle Social Login. In this particular case applied for Facebook.
 Apart from that, practising some Interview questions from here: https://www.toptal.com/algorithms/interview-questions (19 Essential Algorithm Questions)
+
+### Day 8
+It's been quite some time since I started this and: done some more programming, changed jobs, moved, etc. Now focusing on some Java Spring Development.
+But I'll get back to Laravel as side projects 'cause I really liked the framework.
+In day 8, I decided to learn about Artificial Intelligence.
+Besides AI, I went back to start from scratch to learn ReactJS. I've seen tutorials months ago and done some projects, but I'll keep track from re-doing some other tutorials.
