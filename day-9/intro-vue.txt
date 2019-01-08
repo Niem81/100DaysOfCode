@@ -1,0 +1,27 @@
+VueJS
+
+- It's a progressive framework. Which means it can be used in a simple manner or for more complex topics like building an SPA or Server-Side Rendering.
+- It's reactive, which means, if any value of any data is modified, Vue automatically modifies it in the view.
+
+- Data Binding:
+  - Create a Vue instance.
+  - Bind it to an element from the DOM.
+  - Specify some data.
+  - Apply directives like 'v-model' to bind that element
+
+- Using Vue DevTools:
+  - Vue will automatically proxy all your data properties so you can access them all from an instance.
+
+- Vue allows the data to be the single source of truth.
+
+- Mounted: is a special method that it's called when the view is mounted, and executes any given instructions.
+  - var app = new Vue({
+      mounted() {
+        // do sth...
+      }
+  })
+
+- I can use methods linked with the v-on:click directive.
+
+- v-on:click="methodName" --> @:click="methodName"
+- v-bind:title="titleName" --> :title="titleName"

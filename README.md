@@ -55,3 +55,6 @@ It's been quite some time since I started this and: done some more programming, 
 But I'll get back to Laravel as side projects 'cause I really liked the framework.
 In day 8, I decided to learn about Artificial Intelligence.
 Besides AI, I went back to start from scratch to learn ReactJS. I've seen tutorials months ago and done some projects, but I'll keep track from re-doing some other tutorials.
+
+### Day 9
+Started learning VueJS
