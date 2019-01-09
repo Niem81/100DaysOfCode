@@ -58,3 +58,18 @@ Besides AI, I went back to start from scratch to learn ReactJS. I've seen tutori
 
 ### Day 9
 Started learning VueJS
+I'm considering building a Blog for start writing different topics that I'm also learning at work.
+Right now focusing on the business side by writing docs related to agile projects.
+
+### Day 10
+Let's start with some algorithms. I've decided that this year I will focus on keep learning algorithms.
+I'm back to Codility and going to start with Sorting. I've done sorting before, but will see how this goes.
+* What is Sorting?
+  Is the process of arrnging data in certain order. Usually we sort by the value of elements, but that's not all. We can apply sorting in different ways aiming other topics or even data structures.
+* Some mentioned types:
+  - Selection sort
+  - Counting sort
+  - Counting Sort
+  - Merge Sort
+* Chapter 6 - Sorting
+  - Distinct
