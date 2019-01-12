@@ -79,3 +79,4 @@ I'm back to Codility and going to start with Sorting. I've done sorting before, 
 Continue with some algorithms from Codility.
 * Chapter 6 - Sorting
   - Triangle
+  - NumberOfDiscIntersections
