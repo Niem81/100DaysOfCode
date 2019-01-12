@@ -73,3 +73,9 @@ I'm back to Codility and going to start with Sorting. I've done sorting before, 
   - Merge Sort
 * Chapter 6 - Sorting
   - Distinct
+  - MaxProductOfThree
+
+### Day 11
+Continue with some algorithms from Codility.
+* Chapter 6 - Sorting
+  - Triangle
