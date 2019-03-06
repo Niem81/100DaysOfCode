@@ -80,3 +80,21 @@ Continue with some algorithms from Codility.
 * Chapter 6 - Sorting
   - Triangle
   - NumberOfDiscIntersections
+
+### Day 12
+So the day started remembering something I saw on Alison Falk's IG, which is that sometimes, some developers do not manage to keep track of all 100DaysOfCode Challenge, and that it's true on my case. I think its being a pretty long time since I treid to keep this challenge up to date.
+Said that, I saw a tutorial from Traversy Media on what things to know before learning a new JS Framework. Full disclosure, I've already been learning different frameworks, so it's good to review this topics.
+* What to know before learning JS Frameworks:
+  - JavaScript Fundamentals (Basic Syntax, variables, arrays, object literals, events, functions, loops, conditionals)
+  - Modules
+  - Classes
+  - Arrow Functions
+  - Promises / Asynchronous requests
+  - Destructuring
+  - Concept of Components & State
+  - Spread Operator
+  - High Order Array Functions
+
+Later, I got back reviewing algorithms. This day I started with Stacks and Queues.
+* Stack:
+  Is a basic data structure in which the insertion and deletion takes place at the top. In this case, I imagine like all the  clothes at some point you pile in your bed, and in a way it forms this representation of Stack.

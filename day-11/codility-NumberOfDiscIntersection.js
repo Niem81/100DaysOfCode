@@ -36,3 +36,5 @@ function solution(A) {
     }
     return pairs;
 }
+
+// better solution:
