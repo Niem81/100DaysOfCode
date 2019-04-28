@@ -106,3 +106,15 @@ Continue with some algorithms from Codility.
 The day before I finished and algorithm from Codility exercises. Now I'm continuing what I left in the exercises from Stacks and Queues.
 * Chapter 7 - Stacks n Queues
   - Fish
+
+### Day 14
+I've started a tutorial on Vue creating a Realtime Chat App using Firebase as backend service.
+* Some details:
+  - When using v-for, the orderBy filter is no longer available in v2. For giving order to an array of elements, you can apply a computer property using lodash to return an ordered array.
+  - In this particular tutorial, he is ordering the data applying functions from firebase collection, so the fetched data comes already ordered.
+
+### Day 15
+Going back to React basics. And at same time listening to some talks about React Hooks.
+Starting with Fullstack React 30 days (I don't know if 30 days but still):
+  - React is a Javascript library for building user interfaces. Consider it as view layer for web applications.
+  - Components are the hreat of React
