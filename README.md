@@ -118,3 +118,6 @@ Going back to React basics. And at same time listening to some talks about React
 Starting with Fullstack React 30 days (I don't know if 30 days but still):
   - React is a Javascript library for building user interfaces. Consider it as view layer for web applications.
   - Components are the hreat of React
+Following some tutorials:
+  - Day 4 of FS React 30 days exercise
+  - 
